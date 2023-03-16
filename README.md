@@ -1,13 +1,3 @@
-<style>
-  .f-box {
-    display: flex;
-  }
-  
-  .f-f-item {
-    flex: 1;
-  }
- </style>
-
 # Flycran
 
 <div class="f-box">
