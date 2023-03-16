@@ -21,7 +21,7 @@
 
 <p align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flycran&title_color=0092E8&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issue)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flycran&title_color=0092E8&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact)
   
 </p>
