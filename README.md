@@ -19,4 +19,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=26&pause=1000&color=1B95E6&vCenter=true&lines=%E4%B9%A6%E5%B1%B1%E6%9C%89%E8%B7%AF%E5%8B%A4%E4%B8%BA%E5%BE%84%EF%BC%8C%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF%E8%8B%A6%E4%BD%9C%E8%88%9F)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flycran&title_color=0092E8&show_icons=true&locale=cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flycran&title_color=0092E8&icon_color=0092E8&show_icons=true&locale=cn)
