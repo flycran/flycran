@@ -23,8 +23,14 @@
   
 </p>
  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flycran&title_color=0092E8&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&locale=cn" alt="Top Langs"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=flycran&title_color=0092E8&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&locale=cn" alt="Top Langs"/>
+    </td>
+  </tr>
+</table>
   
