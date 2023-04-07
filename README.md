@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&size=26&pause=1000&color=1B95E6&vCenter=true&lines=%E4%B9%A6%E5%B1%B1%E6%9C%89%E8%B7%AF%E5%8B%A4%E4%B8%BA%E5%BE%84%EF%BC%8C%E5%AD%A6%E6%B5%B7%E6%97%A0%E6%B6%AF%E8%8B%A6%E4%BD%9C%E8%88%9F" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.svg"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=document.wite('Hello+Flycran');Welcome+to+Flycran's+homepage!" alt="Typing SVG" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.gif"/>
 </p>
 
 ### 我的社交媒体
