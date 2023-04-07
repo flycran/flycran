@@ -1,5 +1,5 @@
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/flycran/profile-snake-contrib/github-contribution-grid-snake-dark.svg"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 
 ### 我的社交媒体
