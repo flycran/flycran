@@ -11,7 +11,7 @@
 </h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=html,css,sass,js,ts,jquery,md,svg,vue,react,redux,emotion,git,nodejs,rollupjs,electron,nestjs,jenkins,mongodb,mysql,webpack,vite,github,discord,stackoverflow,ai,ps,pr"/>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=html,css,sass,js,ts,jquery,md,svg,vue,react,redux,emotion,git,nodejs,rollupjs,electron,nestjs,jenkins,mongodb,mysql,webpack,vite,github,discord,stackoverflow,ai,ps,pr,vscode,webstorm"/>
 </div>
 
 ---
