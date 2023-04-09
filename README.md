@@ -14,13 +14,12 @@
   <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=html,css,sass,js,ts,jquery,md,svg,vue,react,redux,emotion,git,nodejs,rollupjs,electron,nestjs,jenkins,mongodb,mysql,webpack,vite,github,discord,stackoverflow,ai,ps,pr,vscode,webstorm"/>
 </div>
 
----
-
+<hr/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=flycran&hide_title=true&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issues&hide_border=true" alt="Anurag's GitHub stats"/>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=0092E8&locale=cn&hide_border=true&card_width=350&hide_title=true" alt="Top Langs"/>
-    </td>
 </div>
+<hr/>
 
 <table align="center" width="100%">
   <tr>
