@@ -37,29 +37,20 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=0092E8&locale=cn&hide_border=true&card_width=467&hide_title=true" alt="Top Langs"/>
     </td>
   </tr>
-</table>
-
-<h3 align="center">
-  我的社交媒体
-</h3>
-
-<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img src="https://stats.justsong.cn/api/bilibili?lang=zh-CN&hide_border=true&id=1970056592"/>
     </td>
-    <td>
+    <td align="center">
       <img src="https://stats.justsong.cn/api/github?lang=zh-CN&username=flycran"/>
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://stats.justsong.cn/api/juejin?lang=zh-CN&id=1737682330585838"/>
     </td>
-    <td>
+    <td align="center">
       <img src="https://stats.justsong.cn/api/leetcode?lang=zh-CN&cn=true&username=cheng-feng-fei-he-4"/>
     </td>
   </tr>
 </table>
- 
-  
