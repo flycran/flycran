@@ -24,7 +24,7 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://stats.justsong.cn/api/bilibili?lang=zh-CN&hide_border=true&id=1970056592"/>
+      <img src="https://stats.justsong.cn/api/juejin?lang=zh-CN&id=1737682330585838"/>
     </td>
     <td align="center">
       <img src="https://stats.justsong.cn/api/github?lang=zh-CN&username=flycran"/>
@@ -32,10 +32,10 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://stats.justsong.cn/api/juejin?lang=zh-CN&id=1737682330585838"/>
+      <img src="https://stats.justsong.cn/api/leetcode?lang=zh-CN&cn=true&username=cheng-feng-fei-he-4"/>
     </td>
     <td align="center">
-      <img src="https://stats.justsong.cn/api/leetcode?lang=zh-CN&cn=true&username=cheng-feng-fei-he-4"/>
+      <img src="https://stats.justsong.cn/api/bilibili?lang=zh-CN&hide_border=true&id=1970056592"/>
     </td>
   </tr>
 </table>
