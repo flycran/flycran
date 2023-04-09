@@ -16,15 +16,13 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=flycran&hide_title=true&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issues&hide_border=true" alt="Anurag's GitHub stats"/>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=flycran&hide_title=true&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issues&hide_border=true" alt="Anurag's GitHub stats"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=0092E8&locale=cn&hide_border=true&card_width=430&hide_title=true" alt="Top Langs"/>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=0092E8&locale=cn&hide_border=true&card_width=467&hide_title=true" alt="Top Langs"/>
-    </td>
-  </tr>
+</div>
+
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <img src="https://stats.justsong.cn/api/bilibili?lang=zh-CN&hide_border=true&id=1970056592"/>
