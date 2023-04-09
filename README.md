@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 
-<img align="right" width="450px" src="https://user-images.githubusercontent.com/86134803/230763346-2e98cf15-eebb-4070-a0ae-d3de32311dcc.gif"/>
+<img align="right" width="430px" src="https://user-images.githubusercontent.com/86134803/230763346-2e98cf15-eebb-4070-a0ae-d3de32311dcc.gif"/>
  
 <h3 align="center">
   我的技术
