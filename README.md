@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 
-<img align="right" width="460px" src="https://user-images.githubusercontent.com/86134803/230763346-2e98cf15-eebb-4070-a0ae-d3de32311dcc.gif"/>
+<img align="right" width="450px" src="https://user-images.githubusercontent.com/86134803/230763346-2e98cf15-eebb-4070-a0ae-d3de32311dcc.gif"/>
  
 <h3 align="center">
   我的技术
@@ -18,7 +18,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=flycran&hide_title=true&icon_color=0092E8&show_icons=true&locale=cn&include_all_commits=true&hide=issues&hide_border=true" alt="Anurag's GitHub stats"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=0092E8&locale=cn&hide_border=true&card_width=430&hide_title=true" alt="Top Langs"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=0092E8&locale=cn&hide_border=true&card_width=365&hide_title=true" alt="Top Langs"/>
     </td>
 </div>
 
