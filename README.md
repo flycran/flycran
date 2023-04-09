@@ -4,22 +4,22 @@
   <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 
-<img align="right" width="46%" src="https://user-images.githubusercontent.com/86134803/230763346-2e98cf15-eebb-4070-a0ae-d3de32311dcc.gif"/>
+<img align="right" width="500px" src="https://user-images.githubusercontent.com/86134803/230763346-2e98cf15-eebb-4070-a0ae-d3de32311dcc.gif"/>
  
-<h4 align="center">
+<h3 align="center">
   我的技术
-</h4>
+</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=8&theme=dark&i=html,css,sass,js,ts,jquery,md,svg,vue,react,redux,emotion,git,nodejs,rollupjs,electron,nestjs,jenkins,mongodb,mysql,webpack,vite"/>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=html,css,sass,js,ts,jquery,md,svg,vue,react,redux,emotion,git,nodejs,rollupjs,electron,nestjs,jenkins,mongodb,mysql,webpack,vite"/>
 </div>
  
-<h4 align="center">
+<h3 align="center">
   我的工作平台
-</h4>
+</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?perline=8&theme=dark&i=github,discord,stackoverflow,ai,ps,pr"/>
+  <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=github,discord,stackoverflow,ai,ps,pr"/>
 </div>
 
 ---
