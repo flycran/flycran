@@ -22,7 +22,7 @@
 <hr/>
 
 <div align="center">
-  <img width="300px" src="https://user-images.githubusercontent.com/86134803/230807486-65b8062d-6ed9-4f5b-a945-14e859f8ffe3.svg"/>
+  <img width="800px" src="https://user-images.githubusercontent.com/86134803/230807486-65b8062d-6ed9-4f5b-a945-14e859f8ffe3.svg"/>
 </div>
 
 <table align="center" width="100%">
