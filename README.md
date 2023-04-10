@@ -21,8 +21,10 @@
 </div>
 <hr/>
 
+
+
 <div align="center">
-  <img width="800px" src="https://user-images.githubusercontent.com/86134803/230807486-65b8062d-6ed9-4f5b-a945-14e859f8ffe3.svg"/>
+  <img width="90%" src="https://user-images.githubusercontent.com/86134803/230808761-885e3608-aa2f-4537-a7e9-c1d54d71eebe.svg"/>
 </div>
 
 <table align="center" width="100%">
