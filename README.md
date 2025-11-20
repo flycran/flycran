@@ -4,6 +4,10 @@
   <img src="https://raw.githubusercontent.com/flycran/flycran/main/assets/github-contribution-grid-snake.svg"/>
 </p>
 
+<div align="center">
+完全从头设计的<a href="https://flycran.netlify.app/">个人博客</a>正在开发中
+</div>
+
 <img align="right" width="420px" src="https://user-images.githubusercontent.com/86134803/230806973-8e0f9f81-479c-4c40-a462-cb5e403e650e.svg"/>
  
 <h3 align="center">
