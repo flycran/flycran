@@ -20,8 +20,8 @@
 
 <hr/>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=flycran&hide_title=true&icon_color=54AEFF&show_icons=true&locale=cn&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
-  <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=54AEFF&locale=cn&hide_border=true&card_width=320&hide_title=true" alt="Top Langs"/>
+  <img src="https://github-readme-stats-topaz-two-19.vercel.app//api?username=flycran&hide_title=true&icon_color=54AEFF&show_icons=true&locale=cn&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
+  <img align="right" height="140px" src="https://github-readme-stats-topaz-two-19.vercel.app//api/top-langs/?username=flycran&layout=compact&title_color=54AEFF&locale=cn&hide_border=true&card_width=320&hide_title=true" alt="Top Langs"/>
 </div>
 <hr/>
 
