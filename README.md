@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=flycran">
+<img src="https://streak-stats.demolab.com/?user=flycran&hide_current_streak=true">
 </p>
 
 <hr/>
