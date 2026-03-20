@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-完全从头设计的<a href="https://flycran.netlify.app/">个人博客</a>正在开发中
+完全从头设计的<a target="_blank" href="https://flycran.xyz">个人博客</a>正在开发中
 </p>
 
 <h2 align="center">Ability</h2>
