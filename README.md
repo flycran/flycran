@@ -18,8 +18,8 @@
 <h2 align="center">My github</h2>
 
 <p align="center">
-  <img height="140px" src="https://github-readme-stats-topaz-two-19.vercel.app/api?username=flycran&hide_title=true&icon_color=54AEFF&show_icons=true&locale=cn&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
-  <img height="140px" src="https://github-readme-stats-topaz-two-19.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=54AEFF&locale=cn&hide_border=true&card_width=320&hide_title=true" alt="Top Langs"/>
+  <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api?username=flycran&hide_title=true&icon_color=54AEFF&show_icons=true&locale=cn&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
+  <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=54AEFF&locale=cn&hide_border=true&card_width=320&hide_title=true" alt="Top Langs"/>
 </p>
 
 <p align="center">
