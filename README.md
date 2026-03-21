@@ -8,14 +8,14 @@
 完全从头设计的<a target="_blank" href="https://flycran.xyz">个人博客</a>正在开发中
 </p>
 
-<h2 align="center">Ability</h2>
+<h2 align="center">我的技能</h2>
 
 <p align="center">
   <img height="300px" src="https://user-images.githubusercontent.com/86134803/230806973-8e0f9f81-479c-4c40-a462-cb5e403e650e.svg"/>
   <img src="https://skillicons.dev/icons?perline=7&theme=dark&i=html,css,sass,js,ts,md,svg,vue,react,nextjs,redux,tailwind,emotion,git,nodejs,rollupjs,electron,nestjs,express,jenkins,mongodb,supabase,mysql,webpack,vite,github,gmail,discord,notion,stackoverflow,ai,ps,pr,vscode,webstorm"/>
 </p>
 
-<h2 align="center">My github</h2>
+<h2 align="center"> GitHub 状态</h2>
 
 <p align="center">
   <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api?username=flycran&hide_title=true&icon_color=54AEFF&show_icons=true&locale=cn&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=flycran&hide_current_streak=true">
+<img src="https://streak-stats.demolab.com/?user=flycran&hide_current_streak=true&locale=zh_Hans">
 </p>
 
 <hr/>
