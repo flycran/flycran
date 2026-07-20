@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=document.write('Hello+Flycran');Welcome+to+Flycran's+homepage!" alt="Typing SVG" />
-
-  <img src="https://raw.githubusercontent.com/flycran/flycran/snk-output/github-contribution-grid-snake-dark.svg?palette=github-dark"/>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/flycran/flycran/snk-output/github-contribution-grid-snake-dark.svg?palette=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flycran/flycran/snk-output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/flycran/flycran/snk-output/github-contribution-grid-snake.svg" alt="snake">
+  </picture>
 </p>
 
 <blockquote align="center">
