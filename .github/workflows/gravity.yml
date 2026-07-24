@@ -1,0 +1,30 @@
+name: Generate Contribution Gravity
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 每天 UTC 0:00 运行（北京时间 8:00）
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  gravity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: flycran/github-gravity@v1
+        with:
+          username: flycrn
+          text: Flying Crane
+          sampleRate: 8
+          textColor: "#119af5"
+          output-path: deploy/gravity.svg
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./deploy
+          publish_branch: gravity-output
+          keep_files: false
+          force_orphan: true
