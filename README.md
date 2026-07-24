@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=document.write('Hello+Flycran');Welcome+to+Flycran's+homepage!" alt="Typing SVG" />
   
-  <img src="https://raw.githubusercontent.com/flycran/flycran/gravity-output/gravity.svg" alt="gravity">
+  <a href="https://github.com/flycran/github-gravity"><img src="https://raw.githubusercontent.com/flycran/flycran/gravity-output/gravity.svg" alt="gravity"></a>
 </p>
 
 <blockquote align="center">
