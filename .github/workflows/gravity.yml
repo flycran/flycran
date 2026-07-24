@@ -19,7 +19,8 @@ jobs:
           username: flycran
           text: Flying Crane
           sampleRate: 8
-          textColor: "#119af5"
+          text-color: "#119af5"
+          background-color: "#fff"
           output-path: deploy/gravity.svg
       - uses: peaceiris/actions-gh-pages@v4
         with:
