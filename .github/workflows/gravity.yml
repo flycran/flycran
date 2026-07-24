@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v6
       - uses: flycran/github-gravity@v1
         with:
-          username: flycrn
+          username: flycran
           text: Flying Crane
           sampleRate: 8
           textColor: "#119af5"
