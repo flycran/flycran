@@ -25,10 +25,10 @@ Hello! I am **Flycran**, a **Frontend Architect Engineer** passionate about buil
 
 ### 🚀 My open Source Projects
 
-- 🎨 **[smart-unit](https://flycran.github.io/smart-unit/en/)** — *Smart Unit Selection & i18n Formatter for UI Rendering*
-  - 💡 **Core Value**: Designed specifically for frontend presentation layer needs rather than raw calculation. It automatically selects the most human-friendly unit for display and seamlessly integrates with `i18n` ecosystems for internationalization.
-  - 🛠️ **Key Features**: Auto-optimal unit selection | UI-first formatting | Built-in i18n support | Full TypeScript type safety.
-  - 📖 **Docs**: [https://flycran.github.io/smart-unit/en/](https://flycran.github.io/smart-unit/en/)
+- 🪐 **[github-gravity](https://github.com/flycran/github-gravity)** — *Gravity-Driven Animated SVG for the GitHub Contribution Graph*
+  - 💡 **Core Value**: Turns a GitHub contribution graph into a physics animation — every contribution block falls under gravity and collides with custom text, exporting a self-contained animated SVG ready for a profile README.
+  - 🛠️ **Key Features**: Rapier2D rigid-body simulation | Any `.ttf`/`.otf` triangulated into a collision mesh | Trajectory compression (DP / RDP / Greedy, ~30x smaller with timing preserved) | Browser playground with live playback & font upload.
+  - 📖 **Docs & Demo**: [https://flycran.github.io/github-gravity/](https://flycran.github.io/github-gravity/)
 
 - ⚡ **[rtk-to-endpoints](https://github.com/flycran/rtk-to-endpoints)** & **[VS Code Extension](https://github.com/flycran/rtk-to-endpoints-vscode)** — *IDE Navigation & DX Enhancer for RTK Query*
   - 💡 **Core Value**: Solves the seamless navigation pain point in RTK Query by allowing developers to direct **Go to Definition** from RTK Hooks straight to their Endpoint definitions.
