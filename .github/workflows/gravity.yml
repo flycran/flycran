@@ -20,6 +20,9 @@ jobs:
           text: Flying Crane
           text-color: "#119af5"
           background-color: "#fff"
+          font-size: 46
+          scale: 2
+          max-simulation-time: 9
           output-path: deploy/gravity.svg
       - uses: peaceiris/actions-gh-pages@v4
         with:
