@@ -18,11 +18,17 @@ jobs:
         with:
           username: flycran
           text: Flying Crane
-          text-color: "#119af5"
+          shape: "square"
           background-color: "#fff"
-          font-size: 46
+          text-color: "#119af5"
+          max-simulation-time: 10
+          css: true
+          font-size: 38
+          text-top: 52
+          friction: 0.1
+          restitution: 0.3
           scale: 2
-          max-simulation-time: 9
+          animation: "var(--n) var(--dur) linear 1s infinite reverse both"
           output-path: deploy/gravity.svg
       - uses: peaceiris/actions-gh-pages@v4
         with:
