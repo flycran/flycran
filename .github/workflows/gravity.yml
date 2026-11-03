@@ -28,7 +28,7 @@ jobs:
           friction: 0.1
           restitution: 0.3
           scale: 2
-          animation: "var(--n) var(--dur) linear 1s infinite alternate both"
+          animation: "var(--n) var(--dur) linear 1s both"
           output-path: deploy/gravity.svg
       - uses: peaceiris/actions-gh-pages@v4
         with:
