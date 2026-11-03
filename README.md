@@ -49,7 +49,7 @@ Hello! I am **Flycran**, a **Frontend Architect Engineer** passionate about buil
 
 <hr/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" />
@@ -63,4 +63,4 @@ Hello! I am **Flycran**, a **Frontend Architect Engineer** passionate about buil
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" />
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" />
-</p>
+</p> -->
