@@ -46,21 +46,3 @@ Hello! I am **Flycran**, a **Frontend Architect Engineer** passionate about buil
   <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api?username=flycran&hide_title=true&icon_color=54AEFF&show_icons=true&locale=en&include_all_commits=true&hide=issues" alt="Anurag's GitHub stats"/>
   <img height="135px" src="https://github-readme-stats-topaz-two-19.vercel.app/api/top-langs/?username=flycran&layout=compact&title_color=54AEFF&locale=cn&hide_border=true&card_width=320&hide_title=true" alt="Top Langs"/>
 </p>
-
-<hr/>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" />
-</p>
